@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<bookstore>
+    <yoga>
+        <title>ramdev-yoga</title>
+        <author>ramdev</author>
+        <price>500</price>
+    </yoga>
+    <story>
+        <title>vikram vetal</title>
+        <author>vikram</author>
+        <price>30</price>
+    </story>
+    <story>
+        <title>sherlocks holmes</title>
+        <author>williamson</author>
+        <price>200</price>
+    </story>
+    <technical>
+        <title>let's C</title>
+        <author>joseph</author>
+        <price>250</price>
+    </technical>
+    <technical>
+        <title>java</title>
+        <author>sunmicro</author>
+        <price>330</price>
+    </technical>
+</bookstore>

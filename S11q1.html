@@ -1,0 +1,27 @@
+<html>
+    <body>
+        <form action="S11q1.html">
+        User
+        <input type="text" id="t1" onmouseenter="changeSize()" onmouseleave="resetSize()">
+        <input type="submit" onmouseenter="changeColor()" onmouseleave="resetColor()">
+    </form>
+    </body>
+    <script>
+        function changeSize()
+        {
+            document.getElementById("t1").style.fontSize="18px";
+        }
+        function resetSize()
+        {
+            document.getElementById("t1").style.fontSize="14px";
+        }
+        function changeColor()
+        {
+            document.getElementById("t1").style.color="red";
+        }
+        function resetColor()
+        {
+            document.getElementById("t1").style.color="black";
+        }
+    </script>
+</html>

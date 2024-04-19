@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<itemdetails>
+    <item>
+        <name>pen</name>
+        <rate>10</rate>
+        <qty>1234</qty>
+    </item>
+    <item>
+        <name>pencil</name>
+        <rate>5</rate>
+        <qty>1234</qty>
+    </item>
+    <item>
+        <name>book</name>
+        <rate>36</rate>
+        <qty>76</qty>
+    </item>
+</itemdetails>

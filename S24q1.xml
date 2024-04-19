@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+
+<studentinfo>
+    <student>
+        <no>1</no>
+        <name>yash</name>
+        <addr>shrirampur</addr>
+        <college>rbnb</college>
+        <course>comp</course>
+    </student>
+    <student>
+        <no>2</no>
+        <name>kartik</name>
+        <addr>nashik</addr>
+        <college>rbnb</college>
+        <course>winetech</course>
+    </student>
+    <student>
+        <no>3</no>
+        <name>adesh</name>
+        <addr>shrirampur</addr>
+        <college>rbnb</college>
+        <course>comp</course>
+    </student>
+    <student>
+        <no>4</no>
+        <name>anup</name>
+        <addr>pune</addr>
+        <college>rbnb</college>
+        <course>chem</course>
+    </student>
+    <student>
+        <no>5</no>
+        <name>varad</name>
+        <addr>goa</addr>
+        <college>rbnb</college>
+        <course>sec</course>
+    </student>
+</studentinfo>

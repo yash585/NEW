@@ -1,0 +1,26 @@
+<html>
+    <body>
+	<form action="S19q1.html" onsubmit="validate()">
+	         User
+	        <input type="text" id="t1"><br>
+	        pass
+	        <input type="text" id="t2"><br>
+	        <input type="submit">
+	</form>
+    <script>
+        function validate()
+        {
+            var user=document.getElementById("t1").value;
+            var pass=document.getElementById("t2").value;
+            if(user=="yash" && pass=="yash")
+            {
+                alert("logged in");
+            }
+            else
+            {
+                alert("failed to log in");
+            }
+        }
+    </script>
+    </body>
+</html>
